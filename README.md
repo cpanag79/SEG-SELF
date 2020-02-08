@@ -1,5 +1,7 @@
 # Cell Segmentation - SEG-SELF Method 
 
+Matlab Code: https://www.mathworks.com/matlabcentral/fileexchange/67313-cell-segmentation-seg-self-method 
+
 Region based method for segmenting and splitting images of cells in an unsupervised manner.
 
 We present a region based method for segmenting and splitting
